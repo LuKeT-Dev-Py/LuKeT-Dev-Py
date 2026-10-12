@@ -4,6 +4,12 @@
 
 Sou João Antônio Pires de Campos. Aprendo programação desenvolvendo projetos de terminal e registrando o que muda em cada versão. Tenho ingresso previsto em Engenharia de Software na UniCesumar em 2027 e estou me preparando para meu primeiro estágio.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-20b040437/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Conecte-se comigo no LinkedIn" />
+  </a>
+</p>
+
 ## 🚀 Projetos em destaque
 
 ### 🎯 [Career Tracker](https://github.com/LuKeT-Dev-Py/career-tracker-python)
